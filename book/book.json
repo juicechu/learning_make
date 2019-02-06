@@ -1,0 +1,12 @@
+{
+  "title": "Makefile 教程",
+  "structure": {
+    "readme": "premise.md"
+  },
+  "links": {
+  },
+  "pluginsConfig": {
+      "theme-default": {
+      }
+  }
+}
